@@ -1,0 +1,22 @@
+        Address|  Size|Note
+         20010-|      |CHR
+     FF7B-4000А|      |Unused Data
+==CHR==
+        Address|  Size|Note
+    21010-2110B|      |Portaits
+         36140-|      |Misako
+==Text==
+        Address|  Size|Note
+    5e0A7-5E0AA|      |Япон
+    5e7b3-5e7bb|      |Стартовал
+         |      |
+===Command names===
+    Address Hex|  Address Dec|  Size|Text
+    60847-6084C|395335-395340|     6|Япония
+    5e7b3-5e7bb|      |
+         |      |
+===Player names===
+    Address Hex|  Address Dec|  Size|Text
+    60F0F-60F13|397071-397075|     6|Кунио
+    5e7b3-5e7bb|      |
+         |      |
